@@ -32,7 +32,7 @@ Brand Competition:The analysis of the 2nd Top Sales Manufacturer for 2009 vs. 20
 Inventory Optimization:By identifying the "Cheapest Cellphone" vs. "Top Selling Models," the analysis helps stakeholders balance low-cost acquisition models with high-margin premium models.
 
 How to Navigate this Repository
-   SQLQuery2.sql : Contains the  full code along with  the business questions.
+   [View all 10 SQL Queries here](SQLQuery2.sql) : Contains the  full code along with  the business questions.
 
 
 
